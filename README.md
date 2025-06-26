@@ -30,7 +30,7 @@ A sleek and fully responsive weather dashboard that provides live weather, air q
 
 ## 📸 Screenshot
 
-![Weather App Screenshot](./public/screenshot.png)
+![Weather App Screenshot](./public/screenshot.PNG)
 
 ---
 
